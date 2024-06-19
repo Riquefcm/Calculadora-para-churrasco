@@ -1,0 +1,1 @@
+Calculadora básica feita em HTML, CSS e JavaScript, com o intuito de calcular a quantidade de carnes, refrigerantes e cerveja, a serem levados para um churrasco com base na quantidade de homens, mulheres e crianças
